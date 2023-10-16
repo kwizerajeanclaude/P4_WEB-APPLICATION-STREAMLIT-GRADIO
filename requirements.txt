@@ -1,0 +1,5 @@
+joblib
+pillow
+transformers
+torch
+scikit-learn==1.2.2
